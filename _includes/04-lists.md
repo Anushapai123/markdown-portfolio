@@ -1,4 +1,4 @@
-What you see	What you type
+What you see -	What you type
 ❤️	             :heart:
 👍	              :+1:
 😄	              :smile:
